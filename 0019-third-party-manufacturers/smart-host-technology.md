@@ -53,8 +53,7 @@ Startups welcome! Answer No if that's the answer.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 **CE**
 * Which countries do you plan to ship to? 
-**The United Arab Emirates
-and Saudi Arabia**
+**worldwide**
 
 ## Customer Support (required)
 
