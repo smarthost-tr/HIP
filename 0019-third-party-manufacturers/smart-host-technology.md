@@ -1,4 +1,4 @@
-# SMART HOST TEKNOLOJİ
+# Manufacturer name
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
@@ -20,7 +20,9 @@ Two sentences about who you are and what you’d like to build. Indicate if you 
 
 ## Product Information (required)
 
-Your time to shine! What are you building? What’s so great about it? 
+**I am currently making Full Hotspot
+I am studying the work of Light Hotspot in order to manufacture the first version**
+
 * What is your approximate price point? 
 **450-650$**
 * Detailed hardware designs, including relevant parts
@@ -53,7 +55,7 @@ Startups welcome! Answer No if that's the answer.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 **CE**
 * Which countries do you plan to ship to? 
-**worldwide**
+worldwide
 
 ## Customer Support (required)
 
@@ -73,6 +75,8 @@ If a hotspot performs a suspicious action, an unauthorized or suspicious connect
 swarm_key will not be saved in hotspot on memory card or RAM
 
 Some code files will be added encrypted in the metal that I can share via e-mail to the helium team in unencrypted formats to see the working method followed**
+
+### The key can only be extracted by the miner with the processor id  and encryption key
 
 ## Hardware Information (required)
 
