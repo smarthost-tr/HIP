@@ -36,7 +36,7 @@ Bluetooth 5.0, BLE
 Frequency band: 868MHz/915MHz/923MHz
 Coverage radius: 3km in city, 7km in rural area
 +3dBi LoRa antenna
-Software security.
+ECC chip for security.
 5V/2.5A DC-plug adapter
 8-channels WAN modem**
 ########################
@@ -68,13 +68,7 @@ This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
 
 ## Hardware Security Element (required)
 
-**Hotspot via VPN will connect to our servers to be able to access swarm_key. Comes encrypted with decryption key. The decryption key can only be accessed by the device because the key will be a combination of the processor ID number in the device with some random words The key can only be known by the VPN server and the key will be changed constantly because it can only be accessed once The VPN server can only be connected through the hotspot because the caller can only be identified if they have a MAC address, processor ID and password that will be changed every time the hotspot connects to the VPN server The programming of the metal will be modified to comply with the above so that the encryption key is provided through some files that we will include in the device in an encrypted form also so that no one can know the algorithm used in the encryption and decryption
-
-If a hotspot performs a suspicious action, an unauthorized or suspicious connection attempt, subsequent attempts will be automatically blocked and the team will be alerted to review the process and monitor what is happening And if there is any error or malfunction, the team can address it remotely If we find out that there is an attempt to hack or tamper, it will be banned immediately
-
-swarm_key will not be saved in hotspot on memory card or RAM
-
-Some code files will be added encrypted in the metal that I can share via e-mail to the helium team in unencrypted formats to see the working method followed**
+**protect swarm_key with ATECC508A compatible ECC chips.**
 
 ### The key can only be extracted by the miner with the processor id  and encryption key
 
