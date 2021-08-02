@@ -68,7 +68,7 @@ This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
 
 ## Hardware Security Element (required)
 
-**protect swarm_key with ATECC508A compatible ECC chips.**
+**protect swarm_key with ATECC608A compatible ECC chips.**
 
 ### The key can only be extracted by the miner with the processor id  and encryption key
 
