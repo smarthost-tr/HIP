@@ -112,4 +112,4 @@ Please tell us about some of the challenges that would prevent these products fr
 **Website - https://smart-host.com.tr
 Contact info - Email : info@smart-host.com.tr
 Payment methods available - CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS
-Regions covered / shipped to - worldwide**
+Regions covered / shipped to - Europe, Middle East and local Turkey**
