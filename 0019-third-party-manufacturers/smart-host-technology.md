@@ -65,6 +65,8 @@ ECC chip for security.
 **At the beginning of August**
 Photos and videos welcome.
 
+<img src="hotspot.jpeg" alt="iStation overview" width=400 />
+
 ## Previous shipments (required)
 
 Startups welcome! Answer No if that's the answer.
