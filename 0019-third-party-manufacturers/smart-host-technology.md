@@ -24,26 +24,44 @@ Two sentences about who you are and what you’d like to build. Indicate if you 
 I am studying the work of Light Hotspot in order to manufacture the first version**
 
 * What is your approximate price point? 
-**450-650$**
+
+**650-800$**
+
 * Detailed hardware designs, including relevant parts
+
  ##################
+ 
 **1.5 GHz quad core ARM Cortex-A72 CPU
+
 2GB LPDDR4 RAM
+
 64GB of MLC SSD storage
+
 Gigabit Ethernet
+
 Bluetooth 5.0, BLE
+
 2.4GHz / 5.0GHz IEEE 802.11.b/g/n/ac wireless
-Frequency band: 868MHz/915MHz/923MHz
+
+Frequency band: 868MHz
+
 Coverage radius: 3km in city, 7km in rural area
+
 +3dBi LoRa antenna
+
 ECC chip for security.
+
 5V/2.5A DC-plug adapter
+
 8-channels WAN modem**
+
 ########################
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
 * Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability  for hosts to change wifi settings, via Helium's official app or otherwise.
+
 **There will be a vpn server that all devices will connect to and receive updates via ota**
 * What is your expected production and delivery timeline?
+
 **At the beginning of August**
 Photos and videos welcome.
 
@@ -60,10 +78,14 @@ worldwide
 ## Customer Support (required)
 
 * How will your customers be able to contact you for support for your products?
+
 **Email and our website. We plan on providing support and updates for the lifetime of the product.**
 * For how long? How are you planning to handle repairs and replacements?
+
 **If the device is defective due to our manufacturing process or shipping/mishandeling on our part we will immediately ship a replacement out.
+
 If the device/one of modules is defective due to user mishandeling/error we will provide repair or ship-out a replacement part for a price.
+
 This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
 
 ## Hardware Security Element (required)
@@ -74,21 +96,34 @@ This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
 ## Hardware Information (required)
 
 Please let us know:
-* Which security (swarm) element are you using? **software**
+* Which security (swarm) element are you using?
+
+**ATECC608A**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
+
 **SX1302,SX1308**
 * We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from?
+
 **Semtech**
 * How many radio modules/ concentrators can you procure?
-**15000 per month**
+
+**1500 per month**
 
 ## Manufacturing Information (required)
 
-* Have you built and delivered radio hardware products before? **yes**
-* Have you built gateways before? **yes**
-* How many gateways did you make? **100 for test**
-* If you have not built gateways before, are you using a third party manufacturer? **no**
+* Have you built and delivered radio hardware products before? 
+
+**yes**
+* Have you built gateways before? 
+
+**yes**
+* How many gateways did you make? 
+
+**100 for test**
+* If you have not built gateways before, are you using a third party manufacturer? 
+
+**no**
 This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
 ## Proof of Identity
@@ -98,8 +133,11 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell? **100K**
+* How many of these are you hoping to make and sell? 
+
+**100K**
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
+
 **The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets**
 
 ## Risks & Challenges (required)
@@ -109,6 +147,9 @@ Please tell us about some of the challenges that would prevent these products fr
 ## Other information (required)
  
 **Website - https://smart-host.com.tr
+
 Contact info - Email : info@smart-host.com.tr
+
 Payment methods available - CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS
+
 Regions covered / shipped to - Europe, Middle East and local Turkey**
