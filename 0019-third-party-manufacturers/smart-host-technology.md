@@ -70,14 +70,13 @@ This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
 
 **protect swarm_key with ATECC608A compatible ECC chips.**
 
-### The key can only be extracted by the miner with the processor id  and encryption key
 
 ## Hardware Information (required)
 
 Please let us know:
 * Which security (swarm) element are you using? **software**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-**SX1302,SX1303,SX1308**
+**SX1302,SX1308**
 * We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from?
 **Semtech**
