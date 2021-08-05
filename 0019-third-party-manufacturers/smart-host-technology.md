@@ -8,58 +8,84 @@ Two sentences about who you are and what you’d like to build. Indicate if you 
 ## Company Information (required)
 
 * What is your company name? 
- **SMART HOST TEKNOLOJİ İTHALAT İHRACAT LIMITED ŞİRKETİ**
+``SMART HOST TEKNOLOJİ İTHALAT İHRACAT LIMITED ŞİRKETİ``
 * How long have you been in business? 
-**from 2016**
+``Established in 2016``
 * What kind of products have you created? 
-**internet provider and web host provider**
+``internet provider and web host provider``
 * How many have you sold? 
-**above 20K customers**
+``The total annual income is about 1 million``
 * What brought you to Helium etc?
-**The ability to expand and become more advanced is what brought us to Helium Gateway.**
+``Internet media, miner communities``
 
 ## Product Information (required)
 
-**I am currently making Full Hotspot
-I am studying the work of Light Hotspot in order to manufacture the first version**
-
 * What is your approximate price point? 
-
-**650-800$**
+``650-800$``
 
 * Detailed hardware designs, including relevant parts
 
- ##################
- 
-**1.5 GHz quad core ARM Cortex-A72 CPU
+**Smart HNT (indoor)**
+```
+*1.5 GHz quad core ARM Cortex-A72 CPU
 
-2GB LPDDR4 RAM
+*2GB LPDDR4 RAM
 
-64GB of MLC SSD storage
+*64GB of MLC SSD storage
 
-Gigabit Ethernet
+*Gigabit Ethernet
 
-Bluetooth 5.0, BLE
+*Bluetooth 5.0, BLE
 
-2.4GHz / 5.0GHz IEEE 802.11.b/g/n/ac wireless
+*2.4GHz / 5.0GHz IEEE 802.11.b/g/n/ac wireless
 
-Frequency band: 868MHz
+*Frequency band: 868MHz
 
-Coverage radius: 3km in city, 7km in rural area
+*Coverage radius: 3km in city, 7km in rural area
 
-+3dBi LoRa antenna
+*+5dBi LoRa antenna
 
-ECC chip for security.
+*ECC chip for security.
 
-5V/2.5A DC-plug adapter
+*5V/2.5A DC-plug adapter
 
-8-channels WAN modem**
+*8-channels WAN modem
+```
+**Smart HNT PRO (Outdoor) devlopment in progress**
+```
+*1.5 GHz quad core ARM Cortex-A72 CPU
 
-########################
+*2GB LPDDR4 RAM
+
+*64GB of MLC SSD storage
+
+*Gigabit Ethernet
+
+*Bluetooth 5.0, BLE
+
+*2.4GHz / 5.0GHz IEEE 802.11.b/g/n/ac wireless
+
+*Frequency band: 868MHz
+
+*Coverage radius: 10km in city, 18km in rural area
+
+*+8dBi LoRa antenna
+
+*ECC chip for security.
+
+*5V/2.5A DC-plug adapter
+
+*8-channels WAN modem
+```
+
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
+```
+Please see the official link: https://smart-host.com.tr
+```
 * Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability  for hosts to change wifi settings, via Helium's official app or otherwise.
-
-**There will be a vpn server that all devices will connect to and receive updates via ota**
+``
+Firmware Over-the-Air (OTA) Updates and remote ssh
+``
 * What is your expected production and delivery timeline?
 
 **At the beginning of August**
@@ -71,61 +97,47 @@ Photos and videos welcome.
 
 Startups welcome! Answer No if that's the answer.
 * Have you shipped anything in the past?
-**yes WIFI routers**
+``yes``
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-**CE**
+``Middle east``
 * Which countries do you plan to ship to? 
-worldwide
+``Local turkey,Europe and Middle east``
 
 ## Customer Support (required)
 
 * How will your customers be able to contact you for support for your products?
-
-**Email and our website. We plan on providing support and updates for the lifetime of the product.**
+``Dedicated personnel manages email and Telegram communication.``
 * For how long? How are you planning to handle repairs and replacements?
-
-**If the device is defective due to our manufacturing process or shipping/mishandeling on our part we will immediately ship a replacement out.
-
-If the device/one of modules is defective due to user mishandeling/error we will provide repair or ship-out a replacement part for a price.
-
-This includes case, concentrator, raspberry pi, motherboard, charger, antenna.**
+``Software can be fixed instantly via remote access. Hardware repair has no labor costs during the first year. If hardware fails, we replace it. Hardware replacement depends on the logistics time, but we have all hardware in stock.``
 
 ## Hardware Security Element (required)
 
-**protect swarm_key with ATECC608A compatible ECC chips.**
+``The community is concerned about devices that can be easily hacked, specifically by copying their `swarm_key` files. Applications should include plan for how the devices will be secured, potentially including:``
 
 
 ## Hardware Information (required)
 
 Please let us know:
 * Which security (swarm) element are you using?
-
-**ATECC608A**
+``ATECC608A``
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-
-**SX1302,SX1308**
+``SX1302/3``
 * We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from?
-
-**Semtech**
+``From turkey to Europe,Middle east``
 * How many radio modules/ concentrators can you procure?
-
-**1500 per month**
+``Depends on the product.``
 
 ## Manufacturing Information (required)
 
 * Have you built and delivered radio hardware products before? 
-
-**yes**
+``Yes``
 * Have you built gateways before? 
-
-**yes**
+``Yes``
 * How many gateways did you make? 
-
-**100 for test**
+``100 for test``
 * If you have not built gateways before, are you using a third party manufacturer? 
-
-**no**
+``No``
 This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
 ## Proof of Identity
@@ -136,11 +148,9 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 ## Budget & Capital (required)
 
 * How many of these are you hoping to make and sell? 
-
-**100K**
+``10K``
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
-
-**The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets**
+``The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets``
 
 ## Risks & Challenges (required)
 
@@ -148,10 +158,10 @@ Please tell us about some of the challenges that would prevent these products fr
 
 ## Other information (required)
  
-**Website - https://smart-host.com.tr
+Website - ``https://smart-host.com.tr``
 
-Contact info - Email : info@smart-host.com.tr
+Contact info - Email : ``info@smart-host.com.tr``
 
-Payment methods available - CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS
+Payment methods available - ``CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS``
 
-Regions covered / shipped to - Europe, Middle East and local Turkey**
+Regions covered / shipped to - ``Europe, Middle East and local Turkey``
