@@ -88,7 +88,7 @@ Firmware Over-the-Air (OTA) Updates and remote ssh
 ``
 * What is your expected production and delivery timeline?
 
-**At the beginning of August**
+``At the beginning of August``
 Photos and videos welcome.
 
 <img src="hotspot.jpeg" alt="iStation overview" width=400 />
@@ -133,12 +133,11 @@ Please let us know:
 * Have you built and delivered radio hardware products before? 
 ``Yes``
 * Have you built gateways before? 
-``Yes``
+``Yes, but not using LoRa``
 * How many gateways did you make? 
-``100 for test``
+``Small quantities directly to our industrial customers``
 * If you have not built gateways before, are you using a third party manufacturer? 
-``No``
-This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+``No, we have our own production capacity in our facilities.``
 
 ## Proof of Identity
 
@@ -155,6 +154,10 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 ## Risks & Challenges (required)
 
 Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
+
+``
+The main risk is the continuity of the materials used to manufacture the product and maintaining sufficient quantity in the warehouse to fill any shortage of shipments. In addition to marketing the product and opening new markets, we will keep advancing to market the product.
+``
 
 ## Other information (required)
  
