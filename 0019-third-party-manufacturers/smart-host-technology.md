@@ -148,10 +148,6 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell? 
-``
-10K
-``
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
 ``
 The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets
