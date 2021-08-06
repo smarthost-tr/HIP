@@ -124,7 +124,7 @@ Please let us know:
 ``SX1302/3``
 * We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from?
-``From turkey to Europe,Middle east``
+``Samm,Mouser, Semtech, Microchip.``
 * How many radio modules/ concentrators can you procure?
 ``Depends on the product.``
 
