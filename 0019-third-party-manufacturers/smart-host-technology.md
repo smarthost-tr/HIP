@@ -89,7 +89,9 @@ Firmware Over-the-Air (OTA) Updates and remote ssh
 * What is your expected production and delivery timeline?
 
 ``At the beginning of August``
+
 Photos and videos welcome.
+
 
 <img src="hotspot.jpeg" alt="iStation overview" width=400 />
 
@@ -108,7 +110,7 @@ Startups welcome! Answer No if that's the answer.
 * How will your customers be able to contact you for support for your products?
 ``Dedicated personnel manages email and Telegram communication.``
 * For how long? How are you planning to handle repairs and replacements?
-``Software can be fixed instantly via remote access. Hardware repair has no labor costs during the first year. If hardware fails, we replace it. Hardware replacement depends on the logistics time, but we have all hardware in stock.``
+``Software can be fixed instantly via remote access. Hardware repair has no labor costs during the first year. If hardware fails, we replace it. Hardware replacement depends on the logistics time, We have spare parts always available in the warehouse for manufacturing, maintenance, and replacement.``
 
 ## Hardware Security Element (required)
 
@@ -124,9 +126,9 @@ Please let us know:
 ``SX1302/3``
 * We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from?
-``Samm,Mouser, Semtech, Microchip.``
+``Samm, Mouser, Semtech, Microchip.``
 * How many radio modules/ concentrators can you procure?
-``Depends on the product.``
+``There is no limit depends on the market.``
 
 ## Manufacturing Information (required)
 
@@ -135,7 +137,7 @@ Please let us know:
 * Have you built gateways before? 
 ``Yes, but not using LoRa``
 * How many gateways did you make? 
-``Small quantities directly to our industrial customers``
+``Small quantities directly to our customers``
 * If you have not built gateways before, are you using a third party manufacturer? 
 ``No, we have our own production capacity in our facilities.``
 
@@ -147,9 +149,13 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 ## Budget & Capital (required)
 
 * How many of these are you hoping to make and sell? 
-``10K``
+``
+10K
+``
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
-``The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets``
+``
+The budget and production quantity are linked to market supply and demand and we are ready to finance all market requirements and we have the ability to finance any quantity demanded by the market and meet new markets
+``
 
 ## Risks & Challenges (required)
 
