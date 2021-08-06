@@ -112,7 +112,7 @@ Startups welcome! Answer No if that's the answer.
 
 ## Hardware Security Element (required)
 
-``We will use ECC chip to store the swarm_keys. If the security chips are not available on the market, we are available to develop one in partnership with the Helium team.``
+``We will use ECC chip to store the swarm_keys.``
 
 
 ## Hardware Information (required)
