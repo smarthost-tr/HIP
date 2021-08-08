@@ -2,12 +2,12 @@
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
-``
+```
 Smart Host is founded by Farah Elsorani in 2016 as an ISP provider to serve and cover the south region of Turkey by building a Large network of towers and node sites in addition to the core network. in 2018 Smart Host start with Network Hosting solutions and all related services to hosting. Our slogan Smart Host reflects our dedication to the needs of the client; our devotion to equipping them with all the resources they need to put themselves ahead of the competition. and we have recently created a department-specialized to develop and produce for Helium Gateway. The ability to expand and become more advanced is what brought us to Helium Gateway.
 
 In first time i will start with full hotspot then we will develop light hotspot 
 
-``
+```
 <img src="hotspot.jpeg" alt="iStation overview" width=400 />
 ## Company Information (required)
 
