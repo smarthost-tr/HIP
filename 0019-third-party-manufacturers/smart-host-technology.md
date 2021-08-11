@@ -173,4 +173,4 @@ Contact info - Email : ``info@smart-host.com.tr``
 
 Payment methods available - ``CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS``
 
-Regions covered / shipped to - ``Europe, Middle East and local Turkey``
+Regions covered / shipped to - ``Europe, Middle East (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain and Jordan) and local Turkey``
