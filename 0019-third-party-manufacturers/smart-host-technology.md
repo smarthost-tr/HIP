@@ -105,9 +105,9 @@ Startups welcome! Answer No if that's the answer.
 * Have you shipped anything in the past?
 ``yes``
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-``Middle east``
+``Middle east(United Arab Emirates)``
 * Which countries do you plan to ship to? 
-``Local turkey,Europe and Middle east``
+``Local turkey,Europe and Middle east (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain and Jordan)``
 
 ## Customer Support (required)
 
